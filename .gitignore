@@ -1,0 +1,39 @@
+# Unreal Engine generated folders
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Plugin generated folders
+/Plugins/*/Binaries/
+/Plugins/*/Intermediate/
+/Plugins/*/Saved/
+
+# Build and temporary artifacts
+/Build/
+*.tmp
+*.temp
+*.log
+
+# IDE and editor files
+/.idea/
+/.vscode/
+/.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+
+# Platform and toolchain files
+*.xcodeproj
+*.xcworkspace
+*.ipa
+*.app
+
+# Local helper files
+/diff.patch
